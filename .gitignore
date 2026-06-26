@@ -10,6 +10,9 @@ states/
 *.dbg.json
 *.tsbuildinfo
 
+# Compiled bytecode artifacts (regenerable from .sol)
+*.bin
+
 # Optional
 .env
 .env.local
